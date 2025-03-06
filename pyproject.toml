@@ -1,0 +1,22 @@
+[project]
+name = "ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.9"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "nltk>=3.9.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "pymorphy3>=2.0.3",
+    "scikit-learn>=1.6.1",
+    "torch>=2.6.0",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
