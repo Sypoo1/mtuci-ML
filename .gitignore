@@ -11,3 +11,4 @@ wheels/
 
 
 **/data
+rnn/russian_toxic_comments.csv
