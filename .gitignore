@@ -12,3 +12,5 @@ wheels/
 
 **/data
 rnn/russian_toxic_comments.csv
+bert/russian_toxic_comments.csv
+bert/ToxicBERT
